@@ -46,18 +46,6 @@ class Agenda:
                 x.exibir_info()  #pra cada x percorrido na lista eu chamo o metodo exibir_info q vai se adaptar ao objeto instanciado
                 print('--------------------------------------')
 
-
-"""agenda = Agenda()  #instanciando a classe Agenda() com o objeto agenda
-
-contato1 = ContatoPessoal("Livia", "859999999", "26 de maio") #objeto contato1 do tipo ContatoPessoal que passa os valores dos atributos
-contato2 = ContatoProfissional("Ana", "859999999", "Unichristus", "Desenvolvedora")
-
-agenda.adicionar_contato(contato1)  #chama o metodo adicionar_contato do objeto agenda
-agenda.adicionar_contato(contato2)
-
-agenda.exibir_contato() #chama o metodo exibir_contato do objeto agenda
-"""
-
 def obter_tipo_contato(tipo_contato):
 
     nome = input('Digite o nome do contato: ')
@@ -80,7 +68,7 @@ agenda = Agenda()
 
 print('------------------ AGENDA DE CONTATOS -------------------------')
 
-while True:
+while True: 
     print('\nOpções:')
     print('1. Adicionar contato')
     print('2. Exibir contatos')
