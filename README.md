@@ -7,7 +7,7 @@
       <p> -Agenda telefonica com seção para contatos profissionais e para contatos pessoais, sendo possivel cadastrar e visualizar as informações dos contatos. </p>
 
 # Sistema de loja
-* [Agenda telefônica](https://github.com/anapaulasanto/Sistema-de-loja)
+* [Sistema de loja](https://github.com/anapaulasanto/Sistema-de-loja)
       <p> -Sistema de uma loja com ações de:  </p>
                 <p> Cadastro de cliente padrão e especial </p>
                 <p> Cadastro de produtos  </p>
